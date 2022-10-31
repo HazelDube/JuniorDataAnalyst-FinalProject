@@ -29,8 +29,8 @@ Relationship between reviews and shipping
 No reviews and reviews compared
 Mostly used words for both positive and negative reviews
 
+![Screenshot (68)](https://user-images.githubusercontent.com/36445846/198921959-8d305e47-1b33-4ead-918a-dff69c031f33.png)
 
-![Screenshot (68)](https://user-images.githubusercontent.com/36445846/198919365-43617fca-6055-40bb-951b-8a49af68fe26.png)
 
 
 # Q3.
