@@ -1,7 +1,7 @@
 # Olist Store Brazillian Dataset
 
 Olist Store is the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. The Brazilian eCommerce public dataset of orders (from 2016 to 2018) made at Olist Store has been provided to your company for analysis.
-
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # Overview
 
