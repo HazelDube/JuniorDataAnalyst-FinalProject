@@ -77,6 +77,12 @@ An increase in Voucher payments might increase the revenue of Olist store as it 
 Build brand awareness - It impacts sales and repeat purchases. The more people know and trust the brand name, the higher the sales will grow e.g the other states that have less orders. Plans could be made to do marketing campaigns, invest in search engine optimization
 Focus on existing customers - the chances of selling to existing customers is 60-70% compared to a 5-20% probability of a sale with a new customer. This could involve promotions, loyalty cards or discounts .
 
+# What was done
+Data Cleaning
+SQL
+Python
+Data Visualization
+
 
 # Final Power Bi Data Visualisation
 ![Screenshot (61)](https://user-images.githubusercontent.com/36445846/198915292-39344668-a5e8-4f78-8184-3b665f7f21a4.png)
